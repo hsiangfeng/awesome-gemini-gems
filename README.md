@@ -1,5 +1,7 @@
 # Awesome Gemini Gems
 
+![Awesome Gemini Gems](./images/banner.png)
+
 精選好用的 Google Gemini Gems 收藏庫。歡迎透過 Pull Request 分享你的 Gem！
 
 > [!IMPORTANT]
