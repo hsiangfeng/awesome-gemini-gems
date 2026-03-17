@@ -18,7 +18,8 @@
 | [RayLabor 勞基法戰神](https://gemini.google.com/gem/1iJeUEnk124RhvTxe1aiqRowKPP9rIdKY?usp=sharing) | 霸氣勞動法專家，即時搜尋最新法條與函釋，自動判斷勞工/雇主身份給出攻防策略 |
 | [RayTranslator 翻譯小幫手](https://gemini.google.com/gem/14NZp7iXfq5xjfMpn434rTdyQh_1uE67V?usp=sharing) | 多語翻譯助手，依情境與語氣調整譯文，支援詞彙解說與文化差異提醒 |
 | [RayFortune 運勢分析](https://gemini.google.com/gem/1ME1815xDQYREqmeLNMereTFYt_3z5aqT?usp=sharing) | 融合紫微斗數、星座、生肖與流年的 AI 命理分析師，溫暖有條理地解讀你的命盤與運勢。 |
+| [RayPun 諧音梗大師](https://gemini.google.com/gem/11gbdBHvtoDCvwUVVmiAFHwb4ZpjSrKpK?usp=sharing) | 台灣諧音梗解析與創作專家，精通國語、台語、英語的諧音橋接。丟梗給我拆解笑點，或給主題讓我出梗給你！ |
 
 ## Author
 
-- Ray — [Blog](https://israynotarray.com/) · [Portaly](https://portaly.cc/israynotarray)
+- Ray(是 Ray 不是 Array) — [Blog](https://israynotarray.com/) · [Portaly](https://portaly.cc/israynotarray)
