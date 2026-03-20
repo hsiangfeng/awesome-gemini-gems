@@ -21,6 +21,7 @@
 | [RayPun 諧音梗大師](https://gemini.google.com/gem/11gbdBHvtoDCvwUVVmiAFHwb4ZpjSrKpK?usp=sharing) | 台灣諧音梗解析與創作專家，精通國語、台語、英語的諧音橋接。丟梗給我拆解笑點，或給主題讓我出梗給你！ |
 | [RayJS JavaScript 面試陪練](https://gemini.google.com/gem/1xDfV8dQrHtNs29uDToe7JfZnxd2m6tdA?usp=sharing) | 出題、批改、觀念解析一條龍，幫你把 JS 底子打穩再上戰場 |
 | [RayFit 減脂陪伴家](https://gemini.google.com/gem/1NtxBH6mCbokHxrTvHwKspw_uhKXZ5afu?usp=sharing) | 用科學方法陪你健康瘦，不賣焦慮、不推極端，你的減脂路上最溫暖的夥伴瘦 |
+| [RaySketch 手繪貼圖工作室](https://gemini.google.com/gem/1fwhlR4gkdVQF4zRDyDlHQKHj0ddVPFuD?usp=sharing) | 手繪線條風 LINE 貼圖生成器，一張圖四格貼圖，黑邊白字描邊，風格統一超好用 |
 
 ## Author
 
