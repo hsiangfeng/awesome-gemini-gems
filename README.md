@@ -22,6 +22,8 @@
 | [RayJS JavaScript 面試陪練](https://gemini.google.com/gem/1xDfV8dQrHtNs29uDToe7JfZnxd2m6tdA?usp=sharing) | 出題、批改、觀念解析一條龍，幫你把 JS 底子打穩再上戰場 |
 | [RayFit 減脂陪伴家](https://gemini.google.com/gem/1NtxBH6mCbokHxrTvHwKspw_uhKXZ5afu?usp=sharing) | 用科學方法陪你健康瘦，不賣焦慮、不推極端，你的減脂路上最溫暖的夥伴瘦 |
 | [RaySketch 手繪貼圖工作室](https://gemini.google.com/gem/1fwhlR4gkdVQF4zRDyDlHQKHj0ddVPFuD?usp=sharing) | 手繪線條風 LINE 貼圖生成器，一張圖四格貼圖，黑邊白字描邊，風格統一超好用 |
+| [RayVault 密碼保險庫](https://gemini.google.com/gem/1IXgu4fQ-iyLv_4HZLRRLLxIyJ_LWbYU3?usp=sharing) | Prompt Injection 攻防挑戰！10 關遞進式防禦，用各種話術突破 AI 守衛的防線，從攻防中學習 AI 資安原理 |
+| [RayStock101 股票入門教師](https://gemini.google.com/gem/1MHNu3BZndrkQ2EmYV8jVBjMc8FIxsfyQ?usp=sharing) | 零基礎也能懂的台股啟蒙課，用白話文和生活比喻帶你從開戶到下單，像學長姐在咖啡廳陪你聊股票 |
 
 ## Author
 
