@@ -4,6 +4,11 @@
 
 精選好用的 Google Gemini Gems 收藏庫。歡迎透過 Pull Request 分享你的 Gem！
 
+> [!NOTE]
+> 考慮到維護成本，自 2026-03-27 起，本專案將統一更新至以下網站，請前往該網站取得最新內容：
+>
+> https://gems.israynotarray.dev/
+
 > [!IMPORTANT]
 > 為了提高準確性，以下 Gem 請務必使用「思考型」、「Pro」模型來減少 AI 幻覺的可能性。
 
